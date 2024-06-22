@@ -25,3 +25,8 @@ To format the raw data, the following steps were performed in Power Query Editor
 **Employee Availability:** Over 90% of employees are available on Mondays and Tuesdays, allowing the organization to plan important events, client meetings, and project planning on these days.
 
 **Sick Leave Analysis:** With a sick leave percentage of less than 2%, it indicates a positive impact on employees' health and well-being, emphasizing the company's commitment to employee wellness and effective work management.
+
+![HR-Dashboard-Result](https://github.com/sathiyavallir/HR-Analytics-Management/assets/172981081/6ecff38c-845b-4ade-b2a7-99ad89365dd3)
+
+
+
